@@ -66,3 +66,4 @@ while True:
         except:
             print(f"❌ Fog node not available")
     time.sleep(3)
+# Updated sensor frequency to 3 seconds

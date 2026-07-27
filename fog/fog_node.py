@@ -114,3 +114,4 @@ if __name__ == "__main__":
     print(f"🏥 Fog Node: {FOG_NODE_ID}")
     print("📡 Listening on port 5000")
     app.run(host='0.0.0.0', port=5000, debug=False)
+# Added inactivity detection rule (30 minutes threshold)

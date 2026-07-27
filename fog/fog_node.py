@@ -116,3 +116,4 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000, debug=False)
 # Added inactivity detection rule (30 minutes threshold)
 # SQS Queue URL: https://sqs.us-east-1.amazonaws.com/306727604573/elderly-safety-queue
+# Lambda function: elderly_safety_processor

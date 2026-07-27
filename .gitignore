@@ -1,7 +1,11 @@
 __pycache__/
 *.pyc
-.env
-venv/
-.venv/
+*.pyo
+*.pem
+*.key
+*.zip
 *.log
-.aws/
+.DS_Store
+.env
+.vscode/
+.idea/
